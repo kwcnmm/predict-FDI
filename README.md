@@ -6,7 +6,7 @@ Remark: It contains SHP files and engineering files,in which the plot attributes
 
 /ENVI
 
-Software version: ENVI
+Software version: ENVI 5.6
 Remark: It includes remote sensing images that have been preprocessed, files related to decision tree classification, and a ROI file for regional feature value statistics.
 
 /MatLab
